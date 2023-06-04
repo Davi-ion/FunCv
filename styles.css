@@ -179,4 +179,15 @@ a:hover{
   .mountain-1{
     width: 100vw;
   }
+  .top-cloud {
+    position: absolute;
+    right: auto;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: auto;
+  }
+  .profile-img{
+    width: 70vw ;
+  }
 } 
