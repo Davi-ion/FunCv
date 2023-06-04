@@ -174,3 +174,9 @@ a:hover{
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
+@media (max-width: 598px) {
+  .mountain-1{
+    width: 100vw;
+  }
+} 
